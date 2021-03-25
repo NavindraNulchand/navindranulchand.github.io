@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './navindra_react.jpg';
 import './App.css';
 
 function App() {
